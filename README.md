@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/bmarius05/FrontendMentorQR
-- Live Site URL: [Add live site URL here](https://bmarius05.github.io/FrontendMentorQR/)
+- Solution URL: [Solution URL](https://github.com/bmarius05/FrontendMentorQR)
+- Live Site URL: [Live site URL](https://bmarius05.github.io/FrontendMentorQR/)
 
 ## My process
 I started by outlining the components. I separated them using appropriated HTML tags. I styled the components using CSS.
